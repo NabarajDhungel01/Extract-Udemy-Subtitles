@@ -31,13 +31,17 @@ Follow these easy steps to extract subtitles from Udemy course videos:
 For more advanced formatting or user-friendly content, consider using a language model like ChatGPT, Bing, or Bard. Provide the following prompt to generate beautifully formatted documentation:
 
 ```
-Generate user-friendly content with the following formatting:
+Transform the extracted subtitle from a video lecture into organic and user-friendly notes with the following formatting:
 
-- Use H1, H2, and H3 headings.
-- Create a list structure for steps or key points.
-- Avoid excessive use of bold text.
-- Make the content appear like a comprehensive set of notes or a tutorial.
-- Ensure the content is written in a user-friendly, non-technical language with minimal jargon, as if it were notes taken by a student.
+-Utilize H1, H2, and H3 headings as needed.
+-Structure the content in a list format for easy comprehension of steps or key points.
+-Minimize the use of bold text.
+-Craft the content to resemble comprehensive lecture notes.
+-Ensure the language is accessible and student-friendly, avoiding excessive technical jargon.
+-Note that the provided text is extracted from a video lecture and should be transformed into notes written from a student's perspective.
+-Try not to use the teachers language while generating texts , like writing " In this lesson we are doing this, that"
 
 ```
+You can ask the answer either in markdown format or html format to the GPT..
+
 If you encounter any issues or have questions, please feel free to create an issue on GitHub.
