@@ -1,0 +1,207 @@
+In this lesson, we'll take a look
+at how to connect Google ads to GA4
+and all the benefits
+this brings.
+
+By connecting ads to GA 4,
+the data will flow
+both ways between the products.
+
+This way, you'll be able to see
+your Google ads campaigns
+in the acquisition Overview
+report, access new Google ads dimensions
+in the user acquisition report,
+import analytics
+conversions into your Google ads account,
+and enhance your Google ads remarketing
+with
+analytics audience data.
+
+Additionally, you'll be able
+to see your Google ads campaigns
+in the advertising workspace,
+including the attribution reports.
+
+The process of linking Google ads
+to property it's very similar
+to connecting search
+console.
+
+First, go under the admin section
+and Scroll down in the properties section
+where you'll
+find the Google ads links.
+
+Click on it and when
+the screen opens.
+
+Click on the link button.
+
+Next, click on choose
+Google add accounts.
+
+And here you'll see all the add accounts
+connected to your current Google account.
+
+If you don't see anything here,
+please make sure that
+you have administrative
+access
+to Google ads with your current
+Google account.
+
+Just to think, you should know,
+if you link to a Google
+ads manager account,
+any data
+that you import from analytics
+will be available available to you.
+
+And to you all of your client accounts.
+
+Next, select the account
+and click confirm.
+
+Then click next and at this point
+you can choose to disable
+personalised advertising.
+
+Basically if you disable this,
+then GA4 audience list
+and remarketing event parameters
+will not be shared
+with connected Google Ads account.
+
+If you disable auto tagging,
+Google Analytics will not associate
+Google ads data with
+customer clicks and the reports
+will have less data to show you.
+
+I would suggest you leave both settings on
+unless you know exactly
+what you're doing
+and know that you don't
+need this data.
+
+After you click next you will see
+the summary
+and if everything looks OK,
+just click
+submit.
+
+When you are done linking
+both accounts,
+you'll automatically start seeing
+Google ads
+data in your Google Analytics reports.
+
+Note that this may take up
+to 24 hours before this data
+is actually visible.
+
+So you can only make around 400
+connexion per GA4 property,
+but that should be enough
+for most cases.
+
+But to be able to take action
+on this data in your Google ads,
+you will need to also
+import conversions
+or add audiences or do both.
+
+So let's take a look at this
+and how you can do this.
+
+Go to your Google ads account
+and we'll start by importing
+the conversions.
+
+If you haven't created any conversions
+yet in your G A4 account,
+you should do that first.
+
+Then in the tools.
+
+And settings menu,
+under the measurement section,
+click on conversions.
+
+In the left corner,
+click on the new conversion action,
+then click import.
+
+Here you'll select the GA for property
+and select whether you're importing
+from Firebase
+or Web data streams.
+
+After that, select all the conversions
+you wish to import and click import.
+
+Then click continue.
+
+And finally.
+
+Done.
+
+When you do this,
+you'll be able to see GA4 conversion
+data in Google ads.
+
+But give Google ads smart bidding
+access to the data
+that will help its optimise your
+bids.
+
+Just a small warning,
+if you have your UA conversion actions
+already imported, then Google
+will by default set your GA 4 conversions
+as secondary
+to prevent counting
+the same event
+twice, and you'll want
+to make them primary.
+
+Before Universal Analytics goes away.
+
+Next thing we'll do is set
+up the audience source
+to use in your remarketing campaigns.
+
+You want to click the tools again
+and settings menu,
+and under the shared library section,
+click on the audience manager.
+
+Then in the left menu,
+click on your data sources.
+
+And in the GA4 and firebase cards,
+click link to Google Analytics
+and Firebase button.
+
+Next, click Link next to each
+property or project
+that you want to add to your Google
+ads account.
+
+And you are basically done.
+
+Once you do this,
+you will be able
+to expand your reach, manage, monitor,
+and troubleshoot
+your audience sources,
+as well as view tag hits,
+active parameters,
+and data lists created
+for each audience source.
+
+This is it for this lecture.
+
+And I'll see you
+in the next one.
