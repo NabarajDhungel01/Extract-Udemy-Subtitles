@@ -26,7 +26,7 @@ Follow these easy steps to extract subtitles from Udemy course videos:
 
 10. **View the Output**: The formatted subtitles will be saved to an output file named `result_current_date.txt` (e.g., `result_11_15.txt`). Your extracted subtitles are ready to use!
 
-## Advanced Formatting
+## Advanced Formatting || Convert Subtitle to Notes / Documentation
 
 For more advanced formatting or user-friendly content, consider using a language model like ChatGPT, Bing, or Bard. Provide the following prompt to generate beautifully formatted documentation:
 
