@@ -1,0 +1,53 @@
+# Lecture Notes: Connecting Google Ads to GA4
+
+## Introduction
+- In this lesson, we'll explore how to connect Google Ads to GA4 and the benefits it offers.
+- By linking these platforms, data flows both ways, providing valuable insights.
+
+## Benefits of Connection
+- View Google Ads campaigns in the Acquisition Overview report.
+- Access new Google Ads dimensions in the User Acquisition report.
+- Import analytics conversions into your Google Ads account.
+- Enhance Google Ads remarketing with analytics audience data.
+- Observe Google Ads campaigns in the advertising workspace, including attribution reports.
+
+## How to Link Google Ads to GA4
+1. Navigate to the Admin section.
+2. Scroll down to the Properties section.
+3. Locate the "Google Ads Links" option and click on it.
+4. Click the "Link" button.
+
+## Account Selection
+- Choose the Google Ads account linked to your current Google account.
+- Ensure you have administrative access to Google Ads with your current Google account.
+
+## Additional Settings
+- You can choose to disable personalized advertising, which prevents sharing GA4 audience lists and remarketing event parameters.
+- Disabling auto tagging means Google Analytics won't associate Google Ads data with customer clicks.
+
+## Confirmation
+- Review the summary and, if everything looks correct, click "Submit."
+- Note that it may take up to 24 hours for Google Ads data to become visible in Google Analytics reports.
+
+## Importing Conversions
+- To take action on Google Ads data in your account, import conversions.
+- Start by creating conversions in your GA4 account.
+- In Google Ads, go to Tools and Settings > Measurement > Conversions.
+- Click "New Conversion Action" and then "Import."
+- Select the GA4 property and choose whether you're importing from Firebase or Web data streams.
+- Select the conversions to import and click "Import."
+- Click "Continue" and then "Done."
+- This allows you to see GA4 conversion data in Google Ads.
+
+## Setting Up Audience Source
+- To use in remarketing campaigns, set up the audience source.
+- In Google Ads, go to Tools and Settings > Shared Library > Audience Manager.
+- Click on "Data Sources" in the left menu.
+- Under GA4 and Firebase, click "Link to Google Analytics and Firebase."
+- Click "Link" next to each property or project you want to add to your Google Ads account.
+
+## Conclusion
+- Connecting Google Ads to GA4 enhances your marketing capabilities.
+- You can expand your reach, manage, monitor, and troubleshoot audience sources effectively.
+- View tag hits, active parameters, and data lists for each audience source.
+- These steps empower you to optimize your advertising efforts.
