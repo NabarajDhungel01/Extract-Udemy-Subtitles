@@ -1,0 +1,511 @@
+WEBVTT
+
+1
+00:02.583 --> 00:04.208
+In this lesson, we'll take a look
+
+2
+00:04.292 --> 00:07.208
+at how to connect Google ads to GA4
+
+3
+00:07.333 --> 00:08.917
+and all the benefits
+
+4
+00:08.958 --> 00:09.667
+this brings.
+
+5
+00:10.583 --> 00:13.250
+By connecting ads to GA 4,
+
+6
+00:13.333 --> 00:16.417
+the data will flow
+both ways between the products.
+
+7
+00:16.958 --> 00:21.292
+This way, you'll be able to see
+your Google ads campaigns
+
+8
+00:21.417 --> 00:23.000
+in the acquisition Overview
+
+9
+00:23.083 --> 00:29.833
+report, access new Google ads dimensions
+in the user acquisition report,
+
+10
+00:30.167 --> 00:31.250
+import analytics
+
+11
+00:31.333 --> 00:34.375
+conversions into your Google ads account,
+
+12
+00:34.583 --> 00:39.000
+and enhance your Google ads remarketing
+with
+
+13
+00:39.083 --> 00:40.625
+analytics audience data.
+
+14
+00:41.833 --> 00:45.833
+Additionally, you'll be able
+to see your Google ads campaigns
+
+15
+00:45.958 --> 00:48.042
+in the advertising workspace,
+
+16
+00:48.292 --> 00:50.583
+including the attribution reports.
+
+17
+00:51.958 --> 00:53.625
+The process of linking Google ads
+
+18
+00:53.708 --> 00:57.125
+to property it's very similar
+to connecting search
+
+19
+00:57.208 --> 00:57.625
+console.
+
+20
+00:58.833 --> 01:05.083
+First, go under the admin section
+and Scroll down in the properties section
+
+21
+01:05.375 --> 01:06.250
+where you'll
+
+22
+01:06.333 --> 01:08.667
+find the Google ads links.
+
+23
+01:09.750 --> 01:12.250
+Click on it and when
+the screen opens.
+
+24
+01:13.042 --> 01:14.250
+Click on the link button.
+
+25
+01:15.500 --> 01:18.958
+Next, click on choose
+Google add accounts.
+
+26
+01:19.833 --> 01:25.375
+And here you'll see all the add accounts
+connected to your current Google account.
+
+27
+01:26.375 --> 01:28.208
+If you don't see anything here,
+
+28
+01:28.542 --> 01:31.500
+please make sure that
+you have administrative
+
+29
+01:31.583 --> 01:32.000
+access
+
+30
+01:32.167 --> 01:35.583
+to Google ads with your current
+Google account.
+
+31
+01:36.875 --> 01:38.417
+Just to think, you should know,
+
+32
+01:38.708 --> 01:41.833
+if you link to a Google
+ads manager account,
+
+33
+01:42.125 --> 01:43.208
+any data
+
+34
+01:43.292 --> 01:45.625
+that you import from analytics
+
+35
+01:45.875 --> 01:47.958
+will be available available to you.
+
+36
+01:49.083 --> 01:52.500
+And to you all of your client accounts.
+
+37
+01:54.083 --> 01:57.792
+Next, select the account
+and click confirm.
+
+38
+01:59.500 --> 02:03.625
+Then click next and at this point
+
+39
+02:03.708 --> 02:07.333
+you can choose to disable
+personalised advertising.
+
+40
+02:08.208 --> 02:10.708
+Basically if you disable this,
+
+41
+02:10.792 --> 02:14.667
+then GA4 audience list
+and remarketing event parameters
+
+42
+02:14.875 --> 02:18.375
+will not be shared
+with connected Google Ads account.
+
+43
+02:19.208 --> 02:21.292
+If you disable auto tagging,
+
+44
+02:21.667 --> 02:25.917
+Google Analytics will not associate
+Google ads data with
+
+45
+02:26.000 --> 02:30.208
+customer clicks and the reports
+will have less data to show you.
+
+46
+02:31.083 --> 02:33.875
+I would suggest you leave both settings on
+
+47
+02:34.125 --> 02:36.375
+unless you know exactly
+what you're doing
+
+48
+02:36.458 --> 02:38.625
+and know that you don't
+need this data.
+
+49
+02:40.000 --> 02:42.875
+After you click next you will see
+the summary
+
+50
+02:43.208 --> 02:44.917
+and if everything looks OK,
+
+51
+02:45.292 --> 02:45.708
+just click
+
+52
+02:45.792 --> 02:46.292
+submit.
+
+53
+02:47.583 --> 02:49.833
+When you are done linking
+both accounts,
+
+54
+02:50.083 --> 02:52.667
+you'll automatically start seeing
+Google ads
+
+55
+02:52.708 --> 02:55.042
+data in your Google Analytics reports.
+
+56
+02:55.792 --> 02:59.542
+Note that this may take up
+to 24 hours before this data
+
+57
+02:59.625 --> 03:00.917
+is actually visible.
+
+58
+03:01.375 --> 03:07.833
+So you can only make around 400
+connexion per GA4 property,
+
+59
+03:08.292 --> 03:10.208
+but that should be enough
+
+60
+03:10.292 --> 03:11.333
+for most cases.
+
+61
+03:12.917 --> 03:17.292
+But to be able to take action
+on this data in your Google ads,
+
+62
+03:17.667 --> 03:18.667
+you will need to also
+
+63
+03:18.750 --> 03:23.333
+import conversions
+or add audiences or do both.
+
+64
+03:24.167 --> 03:27.958
+So let's take a look at this
+and how you can do this.
+
+65
+03:29.292 --> 03:31.375
+Go to your Google ads account
+
+66
+03:31.458 --> 03:33.917
+and we'll start by importing
+the conversions.
+
+67
+03:34.833 --> 03:38.708
+If you haven't created any conversions
+yet in your G A4 account,
+
+68
+03:38.958 --> 03:40.167
+you should do that first.
+
+69
+03:41.250 --> 03:43.375
+Then in the tools.
+
+70
+03:44.000 --> 03:47.958
+And settings menu,
+under the measurement section,
+
+71
+03:48.292 --> 03:49.917
+click on conversions.
+
+72
+03:51.458 --> 03:55.292
+In the left corner,
+click on the new conversion action,
+
+73
+03:55.500 --> 03:56.750
+then click import.
+
+74
+03:57.708 --> 04:00.708
+Here you'll select the GA for property
+
+75
+04:00.875 --> 04:04.292
+and select whether you're importing
+from Firebase
+
+76
+04:04.375 --> 04:05.625
+or Web data streams.
+
+77
+04:07.250 --> 04:12.417
+After that, select all the conversions
+you wish to import and click import.
+
+78
+04:13.583 --> 04:15.542
+Then click continue.
+
+79
+04:16.625 --> 04:17.625
+And finally.
+
+80
+04:18.333 --> 04:18.750
+Done.
+
+81
+04:20.792 --> 04:21.875
+When you do this,
+
+82
+04:21.958 --> 04:25.375
+you'll be able to see GA4 conversion
+data in Google ads.
+
+83
+04:26.292 --> 04:30.625
+But give Google ads smart bidding
+access to the data
+
+84
+04:30.792 --> 04:32.750
+that will help its optimise your
+
+85
+04:32.833 --> 04:33.333
+bids.
+
+86
+04:34.500 --> 04:35.750
+Just a small warning,
+
+87
+04:36.042 --> 04:38.792
+if you have your UA conversion actions
+
+88
+04:38.875 --> 04:41.042
+already imported, then Google
+
+89
+04:41.125 --> 04:43.917
+will by default set your GA 4 conversions
+
+90
+04:44.083 --> 04:45.250
+as secondary
+
+91
+04:45.583 --> 04:47.458
+to prevent counting
+the same event
+
+92
+04:47.542 --> 04:51.375
+twice, and you'll want
+to make them primary.
+
+93
+04:52.333 --> 04:55.208
+Before Universal Analytics goes away.
+
+94
+04:56.708 --> 04:59.958
+Next thing we'll do is set
+up the audience source
+
+95
+05:00.042 --> 05:01.917
+to use in your remarketing campaigns.
+
+96
+05:03.292 --> 05:05.500
+You want to click the tools again
+
+97
+05:06.333 --> 05:08.167
+and settings menu,
+
+98
+05:08.708 --> 05:12.000
+and under the shared library section,
+
+99
+05:12.375 --> 05:14.208
+click on the audience manager.
+
+100
+05:15.375 --> 05:19.417
+Then in the left menu,
+click on your data sources.
+
+101
+05:20.583 --> 05:23.667
+And in the GA4 and firebase cards,
+
+102
+05:24.208 --> 05:27.500
+click link to Google Analytics
+and Firebase button.
+
+103
+05:28.417 --> 05:34.000
+Next, click Link next to each
+property or project
+
+104
+05:34.083 --> 05:36.250
+that you want to add to your Google
+
+105
+05:36.333 --> 05:37.042
+ads account.
+
+106
+05:38.042 --> 05:39.958
+And you are basically done.
+
+107
+05:41.333 --> 05:42.458
+Once you do this,
+
+108
+05:42.542 --> 05:46.917
+you will be able
+to expand your reach, manage, monitor,
+
+109
+05:47.000 --> 05:47.792
+and troubleshoot
+
+110
+05:47.875 --> 05:49.375
+your audience sources,
+
+111
+05:49.792 --> 05:51.625
+as well as view tag hits,
+
+112
+05:51.958 --> 05:53.375
+active parameters,
+
+113
+05:53.667 --> 05:55.500
+and data lists created
+
+114
+05:55.583 --> 05:57.250
+for each audience source.
+
+115
+05:58.708 --> 06:00.208
+This is it for this lecture.
+
+116
+06:00.950 --> 06:02.360
+And I'll see you
+in the next one.
+
